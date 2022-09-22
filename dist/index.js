@@ -1,4 +1,4 @@
-define('@validapp/vesting-sdk', (require, exports)=>{
+define('@scom/impossible-swap-sdk', (require, exports)=>{
 var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;

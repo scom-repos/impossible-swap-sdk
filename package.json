@@ -1,5 +1,5 @@
 {
-  "name": "@validapp/impossible-swap-sdk",
+  "name": "@scom/impossible-swap-sdk",
   "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
